@@ -1,17 +1,18 @@
 @font-face {
 	font-family: 'gallery3d';
-	src:url('fonts/gallery3d.eot?x3npwx');
-	src:url('fonts/gallery3d.eot?#iefixx3npwx') format('embedded-opentype'),
-		url('fonts/gallery3d.svg?x3npwx#gallery3d') format('svg'),
-		url('fonts/gallery3d.woff?x3npwx') format('woff'),
-		url('fonts/gallery3d.ttf?x3npwx') format('truetype');
+	src:url('../fonts/gallery3d.eot?x3npwx');
+	src:url('../fonts/gallery3d.eot?#iefixx3npwx') format('embedded-opentype'),
+		url('../fonts/gallery3d.svg?x3npwx#gallery3d') format('svg'),
+		url('../fonts/gallery3d.woff?x3npwx') format('woff'),
+		url('../fonts/gallery3d.ttf?x3npwx') format('truetype');
 	font-weight: normal;
 	font-style: normal;
 }
 
+/* Element Selector =========== */
+
 [class^="icon-"], [class*=" icon-"] {
 	font-family: 'gallery3d';
-	speak: none;
 	font-style: normal;
 	font-weight: normal;
 	font-variant: normal;
