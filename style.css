@@ -11,7 +11,7 @@
 
 /* Element Selector =========== */
 
-[class^="icon-"], [class*=" icon-"] {
+[class^="icon-"], [class*="icon-"] {
 	font-family: 'gallery3d';
 	font-style: normal;
 	font-weight: normal;
